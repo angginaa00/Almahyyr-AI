@@ -82,6 +82,16 @@ Personalized learning experience
 📄 License
 
 This project is intended for educational and research purposes. Contributions, suggestions, and improvements are welcome.
+## Future Development
+
+- Speech-to-Text integration
+- Automatic pronunciation scoring
+- Student learning analytics dashboard
+- Teacher monitoring dashboard
+- Gamification and badges
+- Learning progress tracking
+- Multi-topic Arabic lessons
+- Deployment on Streamlit Community Cloud
 
 nama  : Anggina Nurul Fauziah, 
         Fahri Abdillah
